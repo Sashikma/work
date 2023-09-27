@@ -1,0 +1,44 @@
+
+.tellman{
+    color: rgb(0, 0, 0);
+   cursor: pointer;
+   display: flex;
+   align-items: start;
+  margin-top: 6px;
+  margin-bottom: 20px;
+  
+  
+}
+.tellmay{
+    margin-left: 800px;
+    margin-bottom: 7px;
+    
+   
+}
+.maysend{
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    border: 1px solid;
+    padding: 10px;
+    width: 1900px;
+    padding: auto;
+    background-color: rgb(127, 133, 131);
+ 
+   
+    
+}
+
+
+.tellmany{
+ margin-bottom: 80px;
+
+}
+.tell img{
+    margin-top: 700px;
+}
+.tellmanynm{
+ display: flex;
+ justify-content: space-between;
+}
